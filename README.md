@@ -15,6 +15,8 @@ run `npm install` to install all the dependencies then run `npm start` to start 
 **Click** on the marker icon in the top-left corner to start drawing your path.
 after you draw your path, you will side a menu to calculate and change the buffer distance.
 
+Check this video for more details: [Youtube](https://www.youtube.com/watch?v=_Ea_q3jaXvs)
+
 ## App Features
 - Each mailbox is a marker on the map.
 - When you click on a marker, you will see the mailbox's details.
